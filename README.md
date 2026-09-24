@@ -1,4 +1,4 @@
-# Single-Page CV (HTML Only) - [Live Link](example.com)
+# Single-Page CV (HTML Only) - [Live Link](https://anoop-rajoriya.github.io/single-page-cv-html/)
 
 A single page resume website, it relise entirely on HTML document no extenal CSS or JS files. It demonstrate how single page layout created using `<section>` tags and implement foundation SEO principles.
 
